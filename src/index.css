@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#root {
+  margin-left: 10px;
+}
+
+label {
+  padding: 4px 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: lightgrey;
+}
+input {
+  padding: 4px 10px;
+  font-size: 18px;
+}
